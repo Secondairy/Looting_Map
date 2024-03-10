@@ -1,0 +1,8 @@
+rsg.obtain_crying_obsidian 1099 1099
+rsg.obtain_lava_bucket 1099 1099
+rsg.obtain_iron_pickaxe 1099 1099
+rsg.obtain_obsidian 1099 1099
+rsg.loot_bastion 1099 1099
+rsg.obtain_iron_ingot 1099 1099
+common.leave_world 1099 1099
+common.rejoin_world 1099 1099
